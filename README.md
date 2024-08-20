@@ -1,5 +1,5 @@
 # GitHub-with-CLion
-We will be using GitHub for all of the C++ Programming Projects this semester. You should bookmark the organization page on your preferred web browser: [https://github.com/uvmcs2240s2024](https://github.com/uvmcs2240s2024)
+We will be using GitHub for all of the C++ Programming Projects this semester. You should bookmark the organization page on your preferred web browser: [https://github.com/uvmcs2240f2024](https://github.com/uvmcs2240f2024)
 
 GitHub stores a remote copy of your project files, which you will be able to edit, add to, remove from, and track the history. It's kind of like Google Docs for code.
 
@@ -32,7 +32,7 @@ In CLion, you will want to go to File -> Settings (Windows) or CLion -> Preferen
 
 # Creating a repository for a Programming Project
 * From the Project GitHub page, click the green "Use this template" button.
-    * Alternatively, from the organization page ([https://github.com/uvmcs2240s2024](https://github.com/uvmcs2240s2024)), click the green "New" button and choose the appropriate project from the "Repository template" dropdown.
+    * Alternatively, from the organization page ([https://github.com/uvmcs2240f2024](https://github.com/uvmcs2240f2024)), click the green "New" button and choose the appropriate project from the "Repository template" dropdown.
 * The owner defaults to the organization. Do NOT change it.
 * Choose a repository name, keeping with the required format in the  project directions.
 * You can optionally provide a description for the project. This is what shows up when the repositories are listed in the organization. You can also edit/complete it later.
